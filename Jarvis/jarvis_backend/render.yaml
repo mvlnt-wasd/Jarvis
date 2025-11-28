@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: jarvis-backend
-    env: python
-    buildCommand: ""
-    startCommand: "python3 jarvis_web.py"
-    plan: free
